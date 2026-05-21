@@ -1,12 +1,12 @@
 # Greetings😄!
 
 <div align = "center">
-<img src="/images/githubProfilePic.jpg" width="500p">
+<img src="/images/githubProfilePic.jpg" width="450p">
 </div>
 
 ### My name is Edouard Ybañez. I am an aspiring Software Engineer and currently an undergraduate student in the University of San Carlos. I have an interest in web based projects and software engineering solutions. 
 
-<details>
+<details align = "center">
     <dl>
         <dt> Main Languages: </dt>
             <dd>C, C++, Javascript, TypeScript, Python</dd>
