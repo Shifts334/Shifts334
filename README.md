@@ -1,7 +1,7 @@
 # Greetings😄!
 
 My name is Edouard Ybañez. I am an aspiring Software Engineer and currently a undergraduate in the University of San Carlos
-![githubProfilePic](/images/githubProfilePic.jpg)
+<img src="/images/githubProfilePic.jpg" width="20">
 
 
 <details>
