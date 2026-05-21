@@ -1,5 +1,15 @@
-## Hi there 👋
+# Greetings😄!
 
+My name is Edouard Ybañez. I am an aspiring Software Engineer and currently a undergraduate in the University of San Carlos
+![githubProfilePic](/images/githubProfilePic.jpg)
+
+
+<details>
+
+
+</details>
+
+<!--
 **Shifts334/Shifts334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
