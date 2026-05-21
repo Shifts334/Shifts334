@@ -7,14 +7,17 @@
 ### My name is Edouard Ybañez. I am an aspiring Software Engineer and currently a undergraduate in the University of San Carlos. I have an interest in web based projects and software engineering solutions. If you wanna know more hit that dropdown button.
 
 <details>
-*Main Languages:
-    *C, C++, Javascript, TypeScript, Python
-*Frontend: 
-    *Next.js, React, TypeScript, Tailwind CSS
-*Backend:
-    *Node.js, Express.js, Supabase
-*DevOps & Tools:
-    *Railway, Vercel, Github
+    <dl>
+        <dt> Main Languages: </dt>
+            <dd>C, C++, Javascript, TypeScript, Python</dd>
+        <dt> Frontend: </dt>
+            <dd>Next.js, React, TypeScript, Tailwind CSS </dd>
+        <dt> Backend: </dt>
+            <dd> Node.js, Express.js, Supabase</dd>
+        <dt> DevOps & Tools: </dt>
+            <dd>Railway, Vercel, Github <dd>
+    </dl>
+
 </details>
 
 <!--
