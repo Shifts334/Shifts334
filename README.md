@@ -4,7 +4,7 @@
 <img src="/images/githubProfilePic.jpg" width="500p">
 </div>
 
-### My name is Edouard Ybañez. I am an aspiring Software Engineer and currently an undergraduate student in the University of San Carlos. I have an interest in web based projects and software engineering solutions. If you wanna know more, please hit that dropdown button.
+### My name is Edouard Ybañez. I am an aspiring Software Engineer and currently an undergraduate student in the University of San Carlos. I have an interest in web based projects and software engineering solutions. 
 
 <details>
     <dl>
