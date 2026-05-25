@@ -27,7 +27,8 @@
         <dt><strong>DevOps & Tools:</strong></dt>
             <dd>Railway, Vercel, GitHub</dd>
     </dl>
-    
+
+    <summary> Portfolio Link </summary>
 </details>
 <!-- <dl>
         <dt> Main Languages: </dt>
