@@ -4,9 +4,20 @@
 <img src="/images/githubProfilePic.jpg" width="450p">
 </div>
 
-### My name is Edouard Ybañez. I am an aspiring Software Engineer and currently an undergraduate student in the University of San Carlos. I have an interest in web based projects and software engineering solutions. 
+### By the Emperor's grace, I'm pleased to meet you. Here are some ideas to get you started:
 
-<details align = "center">
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/edouard-ybañez-aa06a22a1) / @ea.ybanez334@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: ...
+
+
+
+<details align = "left">
     <dl>
         <dt> Main Languages: </dt>
             <dd>C, C++, Javascript, TypeScript, Python</dd>
