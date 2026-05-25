@@ -1,13 +1,13 @@
-# Greetings😄!
+# Howdy😄!
 
 <div align = "center">
-<img src="/images/githubProfilePic.jpg" width="450p">
+<img src="/images/diana-pragmata.gif" width="400p">
 </div>
 
 ### I'm Ed, pleased to meet you. Here are some things to get you started with me:
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Nextjs systems
+- 🌱 I’m currently learning Fullstack with NextJS architecture
 - 👯 I’m looking to collaborate on web-dev projects
 - 🤔 I’m looking for help with systems architecture
 - 💬 Ask me about React and NextJS
@@ -15,8 +15,19 @@
 
 
 
-<details align = "left">
-    <dl>
+<detail align = "left">
+    <summary> Stack of Tech
+    Main Languages: 
+    - C, C++, Javascript, TypeScript, Python
+    Frontend:
+    - Next.js, React, TypeScript, Tailwind CSS 
+    Backend:
+    - Node.js, Express.js, Supabase
+    DevOps & Tools:
+    - Railway, Vercel, Github 
+    </summary>
+</details>
+<!-- <dl>
         <dt> Main Languages: </dt>
             <dd>C, C++, Javascript, TypeScript, Python</dd>
         <dt> Frontend: </dt>
@@ -25,9 +36,7 @@
             <dd> Node.js, Express.js, Supabase</dd>
         <dt> DevOps & Tools: </dt>
             <dd>Railway, Vercel, Github <dd>
-    </dl>
-
-</details>
+    </dl> -->
 
 
 
