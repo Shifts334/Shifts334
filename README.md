@@ -17,13 +17,13 @@
 
 <details align = "left">
     <summary> Stack of Tech</summary>
-    Main Languages: 
+    **Main Languages:** 
     - C, C++, Javascript, TypeScript, Python
-    Frontend:
+    **Frontend:**
     - Next.js, React, TypeScript, Tailwind CSS 
-    Backend:
+    **Backend:**
     - Node.js, Express.js, Supabase
-    DevOps & Tools:
+    **DevOps & Tools:**
     - Railway, Vercel, Github 
     
 </details>
