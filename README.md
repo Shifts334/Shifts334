@@ -17,14 +17,16 @@
 
 <details align = "left">
     <summary> Stack of Tech</summary>
-    **Main Languages:** 
-    - C, C++, Javascript, TypeScript, Python
-    **Frontend:**
-    - Next.js, React, TypeScript, Tailwind CSS 
-    **Backend:**
-    - Node.js, Express.js, Supabase
-    **DevOps & Tools:**
-    - Railway, Vercel, Github 
+    <dl>
+        <dt><strong>Main Languages:</strong></dt>
+            <dd>C, C++, Javascript, TypeScript, Python</dd>
+        <dt><strong>Frontend:</strong></dt>
+            <dd>Next.js, React, TypeScript, Tailwind CSS</dd>
+        <dt><strong>Backend:</strong></dt>
+            <dd>Node.js, Express.js, Supabase</dd>
+        <dt><strong>DevOps & Tools:</strong></dt>
+            <dd>Railway, Vercel, GitHub</dd>
+    </dl>
     
 </details>
 <!-- <dl>
