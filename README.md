@@ -4,16 +4,14 @@
 <img src="/images/githubProfilePic.jpg" width="450p">
 </div>
 
-### By the Emperor's grace, I'm pleased to meet you. Here are some ideas to get you started:
+### I'm Ed, pleased to meet you. Here are some things to get you started with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/edouard-ybañez-aa06a22a1) / @ea.ybanez334@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning Nextjs systems
+- 👯 I’m looking to collaborate on web-dev projects
+- 🤔 I’m looking for help with systems architecture
+- 💬 Ask me about React and NextJS
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/edouard-ybañez-aa06a22a1) / (ea.ybanez334@gmail.com)
 
 
 
@@ -30,6 +28,8 @@
     </dl>
 
 </details>
+
+
 
 <!--
 **Shifts334/Shifts334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
