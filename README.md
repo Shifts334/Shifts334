@@ -15,7 +15,7 @@
 
 
 
-<detail align = "left">
+<details align = "left">
     <summary> Stack of Tech
     Main Languages: 
     - C, C++, Javascript, TypeScript, Python
