@@ -27,8 +27,13 @@
         <dt><strong>DevOps & Tools:</strong></dt>
             <dd>Railway, Vercel, GitHub</dd>
     </dl>
+</details>
 
-    <summary> Portfolio Link </summary>
+<details align = "left">
+    <summary> Portfolio </summary>
+
+    Bear with me it's still in progress lol, I'm migrating it to a nextjs vercel hosting
+    
 </details>
 <!-- <dl>
         <dt> Main Languages: </dt>
