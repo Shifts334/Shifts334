@@ -16,7 +16,7 @@
 
 
 <details align = "left">
-    <summary> Stack of Tech
+    <summary> Stack of Tech</summary>
     Main Languages: 
     - C, C++, Javascript, TypeScript, Python
     Frontend:
@@ -25,7 +25,7 @@
     - Node.js, Express.js, Supabase
     DevOps & Tools:
     - Railway, Vercel, Github 
-    </summary>
+    
 </details>
 <!-- <dl>
         <dt> Main Languages: </dt>
