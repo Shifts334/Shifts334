@@ -1,7 +1,7 @@
 # Howdy😄!
 
 <div align = "center">
-<img src="/images/OK-Diana-sticker.png" width="350p">
+<img src="/images/pragmata-capcom.gif" width="350p">
 </div>
 
 ### I'm Ed, pleased to meet you. Here are some things to get you started with me:
