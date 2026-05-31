@@ -6,11 +6,10 @@
 
 ### I'm Ed, pleased to meet you. Here are some things to get you started with me:
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on Personal Projects
 - 🌱 I’m currently learning Fullstack with NextJS architecture
-- 👯 I’m looking to collaborate on web-dev projects
+- 👯 I’m looking to collaborate on web-development projects
 - 🤔 I’m looking for help with systems architecture
-- 💬 Ask me about React and NextJS
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/edouard-ybañez-aa06a22a1) / (ea.ybanez334@gmail.com)
 
 
@@ -29,10 +28,7 @@
     </dl>
 </details>
 
-<details align = "left">
-    <summary> Portfolio </summary>
 
-    Bear with me it's still in progress lol, I'm migrating it to a nextjs vercel hosting
     
 </details>
 <!-- <dl>
